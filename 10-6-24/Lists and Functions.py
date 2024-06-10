@@ -1,4 +1,6 @@
-#List
+#List -  fundamental data structure that allows you to store a collection of items in a specific order
+#written in []
+
 #Types of list:
 #1) Ordered list
 #2) Indexable
